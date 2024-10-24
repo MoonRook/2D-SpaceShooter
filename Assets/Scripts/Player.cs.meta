@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4138b1b04d232cd47b9b400fa989954c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_PlayerShipPrefab: {fileID: 4968741644174486121, guid: cf2bd85fd7f2eec47ad6fb02a1c52a06, type: 3}
+  - m_CameraController: {instanceID: 0}
+  - m_MovementController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
